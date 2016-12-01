@@ -20,6 +20,11 @@ public class Hello {
 		System.out.println("GitHub edit 4567");
 		// 0412518 end
 
+
+		
+		// 0236597 : hotfix edit by Hong
+		System.out.println("hi!!!!!!!!!!!!!!");
+		// 0236597 end
 	}
 
 }
