@@ -19,12 +19,14 @@ public class Hello {
 		// 0412518 : origin/master edit by Hong
 		System.out.println("GitHub edit 4567");
 		// 0412518 end
-
-
 		
 		// 0236597 : hotfix edit by Hong
 		System.out.println("hi!!!!!!!!!!!!!!");
 		// 0236597 end
+		
+		// 0278944: pull by Hong
+		System.out.println("GitHub edit 4567891");
+		// 0278944 end
 	}
 
 }
